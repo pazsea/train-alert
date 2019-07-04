@@ -5,7 +5,7 @@
 
 ## 🚩 Project Goal
 
-Got dammit.. I missed my train stop again..
+Oh no!.. I missed my train stop again..
 Never again! With this app you just enter in any train station located in Stockholms subway and it will alert you when it is time to get off. Snooze, read, or just be in your own world. When it's time to step off, train-alert will notify you!
 
   <p align="center">
