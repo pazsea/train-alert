@@ -27,7 +27,7 @@ Never again! With this app you just enter in any train station located in Stockh
   * Select station and it will pin that location to an visual google map
   * Notifies you in the app when you have arrived.
   
-  <a href="https://trello.com/b/SlaV9KjP/project-grex">Trello Board</a>
+  <a href="https://trello.com/b/8cmbhBoQ/arrival">Trello Board</a>
   
 
 ## 💻 How to run this project
